@@ -1,4 +1,5 @@
-﻿L = 1.70
+﻿#!/usr/bin/env python3
+L = 1.70
 w = 80.5
 bmi = 80.5/(1.75*1.75)
 print(bmi)
