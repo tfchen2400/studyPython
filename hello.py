@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 print('hello,world')
-print('i','am','king!')
+print('i', 'am', 'king!')
 print('input some!')
 name = input()
-print('input','is',name)
-print(1024*768)
+print('input', 'is', name)
+print(1024 * 768)
 print(0xa5b4c3d2);
 print('i\'m \"ok\"')
 print(r'i m ok \\\\n\\\\ hahahah!')
@@ -32,7 +32,7 @@ print('%2d-%02d' % (3, 1))
 print('%.2f' % 3.1415926)
 s1 = 72
 s2 = 85
-r = (85-72)/72
+r = (85 - 72) / 72
 print('%0.1f%%' % r)
 L = [
     ['Apple', 'Google', 'Microsoft'],
